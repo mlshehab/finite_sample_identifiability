@@ -17,10 +17,9 @@ The goal of this project is to extend the concept of identifiability in Inverse 
 To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Navigate to the `code/` directory.
-3. Run the '''lstsq_pertubation_bound.py''' script or Jupyter notebook to execute the algorithm.
-4. Modify parameters or experiment settings as needed.
-5. Explore the results generated in the `results/` directory.
+2. Run the ```lstsq_pertubation_bound.py``` script or Jupyter notebook to execute the algorithm.
+3. Modify parameters or experiment settings as needed.
+
 
 ## Dependencies
 
